@@ -1,0 +1,36 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: #fff;
+    padding-top: 100px;
+}
+
+#main {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+
+#text-portion {
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.anchor {
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    padding: 15px;
+    text-align: center;
+}
